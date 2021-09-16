@@ -471,6 +471,7 @@ header #menu {
 .ct-socials {
     position: fixed;
     top: 25%;
+        font-size:100%;
     right: 0;
     list-style: none;
     padding-left: 0;
