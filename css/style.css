@@ -490,7 +490,6 @@ header #menu {
 
 .ct-socials li {
     padding: 0px 0;
-    font-size:100%;
 }
 
 .ct-socials li a {
@@ -511,6 +510,7 @@ header #menu {
     transition: all 0.15s ease-in-out;
     float: right;
     padding-left: 5px;
+    font-size:16px;
 }
 
 .ct-socials li a:hover {
